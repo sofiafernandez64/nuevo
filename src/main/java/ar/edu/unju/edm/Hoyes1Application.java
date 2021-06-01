@@ -8,7 +8,7 @@ public class Hoyes1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Hoyes1Application.class, args);
-		System.out.println("hola");
+		System.out.println("hola hj");
 	}
 
 }
